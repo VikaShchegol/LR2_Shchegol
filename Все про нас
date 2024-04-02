@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+ <html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+<title>Все про нас</title>
+<style>
+body {
+  background-color: #ffdddd; 
+  }
+</style>
+</head>
+<body>
+</head>
+<body>
+ <title> Розташування СТО та контактні дані </title>
+СТО "Vmyatinoff" - це сучасний підхід до зовнішнього вигляду автівок.<br>
+Команда професіоналів займається поліруванням кузова та видаленням вм'ятин без фарбування.<br>
+Наш сервіс заснований в 2009 році, за цей час дуже багато клієнтів оцінили якість та переваги саме наших послуг з відновлення стану автівок. <br>
+ <p>Номер телефону: 0673837787(Андрій)</p>
+  <a href="https://maps.visicom.ua/c/35.04052,48.46202,17/f/ADR3JRG6CVT9CY3M34?lang=uk" title="">Адреса: вул.Старокозацька 19, Дніпро, Дніпропетровська область</a>
+  <p>Email: vmyatinoff@gmail.com</p>
+<a href="index.html" title="Повернутись на головну"><img src="media\menu.png" width="300pt"></a>
+</body>
+</html>
